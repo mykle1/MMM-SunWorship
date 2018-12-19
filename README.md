@@ -2,7 +2,7 @@
 
 A rather unspectacular module that displays current images of the sun.
 
-The images are timestamped (Zulu time) and update about every 10 minutes.
+The images are timestamped (Zulu time) and update about every hour.
 
 Images are current to within one hour. Kinda cool.
 
