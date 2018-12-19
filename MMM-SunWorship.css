@@ -15,3 +15,9 @@
 .MMM-SunWorship .timestamp {
   display: none;
 }
+
+.MMM-SunWorship .localTime {
+  display: none;            /* to compare actual picture time */
+  color: #62FF00;
+  text-align: inherit;
+}
